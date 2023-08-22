@@ -1,5 +1,5 @@
 /**
-   * Create By QUADHIR
+   * Create By Bamireid
    * Base By Dika
 */
 
@@ -20,20 +20,20 @@ global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutpu
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 
-global.ownername = '𝕯U͜͡𝖃-𝕭𝕺𝙏'
+global.ownername = 'Bamireid'
 // Other
-global.owner = ['2347082252014','2347046411495']
-global.premium = ['2347082252014','2347046411495']
-global.packname = 'Hisoka Morrow'
-global.author = 'WhatsApp Bot'
-global.wlcm = ['Hey🤭❣️, I am 𝕯U͜͡𝖃-𝕭𝕺𝙏🦋']
+global.owner = ['2348152119668']
+global.premium = ['2348152119668']
+global.packname = 'Bamireid'
+global.author = 'Archangel Bamireid'
+global.wlcm = ['Hey🤭❣️, I am Bamireids wife']
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['Heaven']
 global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
     admin: 'Group Admin Special Features!',
-    botAdmin: '𝕯U͜͡𝖃-𝕭𝕺𝙏 must be an admin first!',
+    botAdmin: 'Bamireids wife must be an admin first!',
     owner: 'Owners Special Features',
     group: 'Feature is used only in Groups!',
     private: 'Feature is used only in private chat!',
